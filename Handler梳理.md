@@ -131,7 +131,7 @@ public Handler(Callback callback, boolean async) {
 2. MessageQueue 存入Handler发送过来的消息，处理消息队列的逻辑。
 3. Handler 发送消息给messageQueue、处理消息。
 
-
-  
+#### 逻辑图是这个样子
+![Alt text](https://github.com/check0927/blog/blob/master/image/handler.png?raw=true)
  
  
